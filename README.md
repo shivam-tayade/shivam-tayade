@@ -1,4 +1,4 @@
-![Description of GIF](https://github.com/shivam-tayade/shivam-tayade/blob/main/raw-img/git%20profile%20(1350%20x%20600%20px)%20(2).gif))
+![Description of GIF](https://github.com/shivam-tayade/shivam-tayade/blob/main/raw-img/git%20profile%20(1350%20x%20600%20px)%20(2).gif)
 
 
 ---
