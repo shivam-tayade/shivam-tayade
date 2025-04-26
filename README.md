@@ -1,4 +1,4 @@
-# Hi, I’m Shivam Tayade
+![Description of GIF](https://github.com/shivam-tayade/shivam-tayade/blob/main/raw-img/git%20profile%20(1350%20x%20600%20px).gif)
 
 👋 **About Me**  
 I am a **certified AWS Cloud Practitioner** and **Cloud Engineer** with a strong foundation in AWS services like **EC2, VPC, S3, IAM**, and more. I am passionate about **Cloud Services**, particularly in enhancing system operations, ensuring security, and optimizing performance for cloud-based solutions.
